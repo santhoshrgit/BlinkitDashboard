@@ -1,4 +1,4 @@
- # Blinkit Dashboard – Power BI Project
+ # 📊Blinkit Dashboard – Power BI Project
 This repository contains a Power BI dashboard developed to analyze and visualize operational and business metrics for Blinkit, an online grocery delivery service. The dashboard is designed to provide key insights for data-driven decision-making.
 
 ## 📌 Key Features
@@ -18,4 +18,4 @@ DAX (Data Analysis Expressions)
 Power Query (M Language)
 
 ## 👤 Author
-Santhosh
+R Santhosh
